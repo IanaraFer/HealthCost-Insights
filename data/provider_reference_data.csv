@@ -1,0 +1,101 @@
+provider_id,provider_name,specialty,years_experience,medical_school,board_certified,hospital_affiliation,license_state,npi_number
+DR1000,Dr. Angela Jackson,Dermatology,31,Stanford Medical School,True,Memorial Medical Center,CA,9999392774
+DR1001,Dr. Matthew Smith,Pediatrics,20,Johns Hopkins Medical School,True,University Medical Center,TX,5539859450
+DR1002,Dr. Mary Garcia,Psychiatry,3,Mayo Medical School,True,General Medical Center,IL,1088049146
+DR1003,Dr. Michael Anderson,Neurology,11,Mayo Medical School,True,University Medical Center,FL,8543849802
+DR1004,Dr. Matthew Williams,Orthopedic Surgery,13,Mayo Medical School,True,Regional Medical Center,CA,1364156605
+DR1005,Dr. John Rodriguez,Cardiology,39,Harvard Medical School,True,Memorial Medical Center,NC,9490004230
+DR1006,Dr. Amy Wilson,Pediatrics,35,Stanford Medical School,True,Regional Medical Center,OH,6555367555
+DR1007,Dr. Mark Miller,Anesthesiology,40,Johns Hopkins Medical School,True,Memorial Medical Center,TX,9739322020
+DR1008,Dr. Mark Brown,Anesthesiology,19,UCLA Medical School,True,Regional Medical Center,FL,3561994482
+DR1009,Dr. Angela Johnson,Internal Medicine,34,Mayo Medical School,True,University Medical Center,NY,5137003838
+DR1010,Dr. Angela Davis,Oncology,11,Johns Hopkins Medical School,True,Regional Medical Center,OH,4351892327
+DR1011,Dr. Patricia Gonzalez,Orthopedic Surgery,6,Johns Hopkins Medical School,True,Regional Medical Center,CA,1754849915
+DR1012,Dr. James Miller,Oncology,10,Stanford Medical School,True,Community Medical Center,OH,8398132070
+DR1013,Dr. Angela Miller,Emergency Medicine,29,Johns Hopkins Medical School,False,University Medical Center,TX,1372559829
+DR1014,Dr. David Martinez,Family Medicine,15,Stanford Medical School,True,General Medical Center,NC,6534435123
+DR1015,Dr. Jennifer Gonzalez,Oncology,2,Johns Hopkins Medical School,True,University Medical Center,IL,9258602228
+DR1016,Dr. Jennifer Wilson,Oncology,2,Mayo Medical School,True,Community Medical Center,TX,2642208133
+DR1017,Dr. Donald Brown,Cardiology,28,Mayo Medical School,True,Memorial Medical Center,NC,1303282223
+DR1018,Dr. Brenda Johnson,Emergency Medicine,22,Mayo Medical School,True,University Medical Center,TX,9948006381
+DR1019,Dr. James Thomas,Anesthesiology,29,Harvard Medical School,True,Regional Medical Center,IL,5545340314
+DR1020,Dr. James Brown,Orthopedic Surgery,10,Johns Hopkins Medical School,True,University Medical Center,PA,2611498125
+DR1021,Dr. Michael Gonzalez,Family Medicine,28,Mayo Medical School,True,University Medical Center,IL,2057747489
+DR1022,Dr. Anthony Garcia,Orthopedic Surgery,2,Stanford Medical School,True,University Medical Center,OH,9234652314
+DR1023,Dr. Michael Miller,Oncology,14,Stanford Medical School,True,Community Medical Center,FL,7280125746
+DR1024,Dr. Matthew Gonzalez,Dermatology,31,UCLA Medical School,True,Memorial Medical Center,GA,4384950465
+DR1025,Dr. Lisa Rodriguez,Emergency Medicine,20,Stanford Medical School,True,Community Medical Center,IL,1309767293
+DR1026,Dr. Angela Wilson,Internal Medicine,35,Johns Hopkins Medical School,False,Community Medical Center,TX,1453592920
+DR1027,Dr. Donald Martin,Neurology,18,Stanford Medical School,True,University Medical Center,MI,8919293224
+DR1028,Dr. Michael Jackson,Orthopedic Surgery,33,Harvard Medical School,True,University Medical Center,NC,1523033125
+DR1029,Dr. Jennifer Gonzalez,Internal Medicine,30,Harvard Medical School,True,Regional Medical Center,CA,7695972563
+DR1030,Dr. Robert Jones,Radiology,31,UCLA Medical School,True,University Medical Center,NC,9424128944
+DR1031,Dr. Michael Smith,Anesthesiology,34,Johns Hopkins Medical School,True,Regional Medical Center,GA,9331735484
+DR1032,Dr. Matthew Martin,Cardiology,23,UCLA Medical School,True,University Medical Center,PA,1783222522
+DR1033,Dr. James Brown,Radiology,22,Johns Hopkins Medical School,True,Community Medical Center,CA,8427054563
+DR1034,Dr. Amy Martinez,Pediatrics,33,Stanford Medical School,True,General Medical Center,NY,7791463161
+DR1035,Dr. John Jones,Psychiatry,9,Johns Hopkins Medical School,True,Memorial Medical Center,OH,5834005672
+DR1036,Dr. Matthew Lopez,Cardiology,2,UCLA Medical School,True,General Medical Center,FL,8784274309
+DR1037,Dr. Donald Hernandez,Anesthesiology,35,Johns Hopkins Medical School,True,Memorial Medical Center,PA,6265025165
+DR1038,Dr. Lisa Jackson,Family Medicine,5,Mayo Medical School,True,Regional Medical Center,NC,8783945481
+DR1039,Dr. Brenda Lopez,Oncology,15,Mayo Medical School,True,Memorial Medical Center,IL,5501234579
+DR1040,Dr. Jane Rodriguez,Radiology,3,Harvard Medical School,True,General Medical Center,OH,8055045947
+DR1041,Dr. John Lopez,Neurology,27,UCLA Medical School,True,General Medical Center,MI,2121139613
+DR1042,Dr. Mark Williams,Radiology,38,UCLA Medical School,True,Community Medical Center,FL,1700401892
+DR1043,Dr. Angela Johnson,Emergency Medicine,24,Harvard Medical School,True,General Medical Center,OH,6972067039
+DR1044,Dr. Lisa Moore,Oncology,3,Johns Hopkins Medical School,True,Community Medical Center,NY,8360422167
+DR1045,Dr. Sarah Lopez,Orthopedic Surgery,36,UCLA Medical School,True,Memorial Medical Center,OH,4449566278
+DR1046,Dr. Christopher Davis,Neurology,5,Johns Hopkins Medical School,True,Memorial Medical Center,OH,8616394094
+DR1047,Dr. Donald Miller,Orthopedic Surgery,19,Stanford Medical School,True,Regional Medical Center,FL,1225255663
+DR1048,Dr. David Wilson,Pediatrics,19,UCLA Medical School,True,Regional Medical Center,PA,8736580025
+DR1049,Dr. Michael Brown,Radiology,28,Mayo Medical School,True,University Medical Center,NC,3770933623
+DR1050,Dr. John Martin,Anesthesiology,27,Mayo Medical School,True,General Medical Center,PA,7132385457
+DR1051,Dr. Michael Thomas,Neurology,2,Johns Hopkins Medical School,False,Community Medical Center,OH,4664599986
+DR1052,Dr. Angela Davis,Family Medicine,19,Stanford Medical School,True,Regional Medical Center,NC,4089852434
+DR1053,Dr. Anthony Martin,Pediatrics,10,Johns Hopkins Medical School,True,University Medical Center,FL,1053810906
+DR1054,Dr. Emma Wilson,Oncology,38,UCLA Medical School,True,Regional Medical Center,OH,8902306056
+DR1055,Dr. Sarah Thomas,Orthopedic Surgery,10,Mayo Medical School,True,University Medical Center,PA,2144197944
+DR1056,Dr. Amy Moore,Orthopedic Surgery,36,Mayo Medical School,True,Memorial Medical Center,NC,9686790016
+DR1057,Dr. Mark Rodriguez,Internal Medicine,26,Mayo Medical School,True,Regional Medical Center,GA,2952011578
+DR1058,Dr. Michael Hernandez,Psychiatry,36,Stanford Medical School,True,University Medical Center,MI,9546623838
+DR1059,Dr. Mark Williams,Radiology,9,Stanford Medical School,True,General Medical Center,FL,3787068156
+DR1060,Dr. Mary Garcia,Pediatrics,9,Stanford Medical School,True,Memorial Medical Center,MI,4844335164
+DR1061,Dr. Emma Martinez,Oncology,26,Stanford Medical School,True,Memorial Medical Center,MI,7231299921
+DR1062,Dr. Anthony Gonzalez,Radiology,34,UCLA Medical School,True,University Medical Center,IL,3145404476
+DR1063,Dr. Michael Thomas,Radiology,35,Johns Hopkins Medical School,True,Regional Medical Center,CA,7790112950
+DR1064,Dr. Donald Martin,Pediatrics,7,Mayo Medical School,True,General Medical Center,NY,8745517253
+DR1065,Dr. Amy Miller,Orthopedic Surgery,21,Mayo Medical School,True,General Medical Center,OH,1214160632
+DR1066,Dr. Jane Jackson,Internal Medicine,8,Stanford Medical School,True,Memorial Medical Center,OH,7936037049
+DR1067,Dr. Amy Thomas,Emergency Medicine,40,Stanford Medical School,True,Community Medical Center,FL,1922075125
+DR1068,Dr. Matthew Miller,Pediatrics,12,Johns Hopkins Medical School,True,General Medical Center,MI,3218809926
+DR1069,Dr. Robert Wilson,Oncology,20,UCLA Medical School,True,General Medical Center,TX,4812113367
+DR1070,Dr. Amy Thomas,Neurology,3,UCLA Medical School,True,University Medical Center,TX,7107886213
+DR1071,Dr. Jennifer Wilson,Oncology,8,Harvard Medical School,False,Regional Medical Center,GA,1063851638
+DR1072,Dr. Emma Moore,Cardiology,11,UCLA Medical School,True,Regional Medical Center,PA,2257022677
+DR1073,Dr. James Gonzalez,Family Medicine,25,Stanford Medical School,True,General Medical Center,PA,1181131407
+DR1074,Dr. Matthew Lopez,Emergency Medicine,28,UCLA Medical School,True,Regional Medical Center,FL,1215082583
+DR1075,Dr. Christopher Lopez,Pediatrics,17,UCLA Medical School,True,University Medical Center,NC,1783164245
+DR1076,Dr. David Johnson,Family Medicine,10,Stanford Medical School,True,Regional Medical Center,MI,9170527984
+DR1077,Dr. Patricia Brown,Orthopedic Surgery,29,Mayo Medical School,True,Memorial Medical Center,CA,9946300891
+DR1078,Dr. Robert Martinez,Emergency Medicine,1,Harvard Medical School,True,University Medical Center,NC,4962142053
+DR1079,Dr. Angela Smith,Orthopedic Surgery,5,Stanford Medical School,True,University Medical Center,NC,9565613282
+DR1080,Dr. Brenda Brown,Pediatrics,2,UCLA Medical School,True,University Medical Center,TX,1534198824
+DR1081,Dr. Angela Brown,Emergency Medicine,28,Johns Hopkins Medical School,True,General Medical Center,IL,9084560278
+DR1082,Dr. Emma Martin,Neurology,24,Harvard Medical School,True,General Medical Center,OH,8173168060
+DR1083,Dr. Brenda Brown,Cardiology,23,Stanford Medical School,True,University Medical Center,TX,5122383169
+DR1084,Dr. Brenda Gonzalez,Internal Medicine,3,Harvard Medical School,True,Memorial Medical Center,NY,9679764210
+DR1085,Dr. John Jackson,Anesthesiology,24,Johns Hopkins Medical School,True,Community Medical Center,MI,6412677939
+DR1086,Dr. Robert Martinez,Neurology,36,UCLA Medical School,True,General Medical Center,IL,2703068598
+DR1087,Dr. David Rodriguez,Dermatology,36,Stanford Medical School,True,Regional Medical Center,CA,6186742914
+DR1088,Dr. Patricia Brown,Psychiatry,20,Stanford Medical School,True,Regional Medical Center,OH,2655760183
+DR1089,Dr. Matthew Garcia,Internal Medicine,39,Johns Hopkins Medical School,True,Memorial Medical Center,FL,2604184254
+DR1090,Dr. Donald Thomas,Anesthesiology,8,Harvard Medical School,True,General Medical Center,FL,5734557047
+DR1091,Dr. Mark Smith,Neurology,22,Stanford Medical School,True,Memorial Medical Center,OH,8167940309
+DR1092,Dr. Christopher Williams,Dermatology,3,Harvard Medical School,True,Community Medical Center,FL,3298482509
+DR1093,Dr. Emma Smith,Orthopedic Surgery,4,Mayo Medical School,True,Community Medical Center,NY,9136909214
+DR1094,Dr. Emma Williams,Oncology,12,Johns Hopkins Medical School,True,General Medical Center,IL,5231184406
+DR1095,Dr. Brenda Lopez,Oncology,6,Harvard Medical School,True,Regional Medical Center,TX,3053548361
+DR1096,Dr. Michael Moore,Pediatrics,8,Stanford Medical School,False,Regional Medical Center,OH,1797508632
+DR1097,Dr. Sarah Garcia,Neurology,18,Stanford Medical School,True,Regional Medical Center,CA,4004211139
+DR1098,Dr. Patricia Brown,Family Medicine,34,Harvard Medical School,True,Community Medical Center,PA,4055554901
+DR1099,Dr. Lisa Rodriguez,Oncology,11,Johns Hopkins Medical School,True,Regional Medical Center,IL,2132402531
